@@ -13,6 +13,7 @@
 		909554AD27514DD70078F739 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 909554AC27514DD70078F739 /* Assets.xcassets */; };
 		909554B027514DD70078F739 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 909554AE27514DD70078F739 /* LaunchScreen.storyboard */; };
 		909554BB2751684D0078F739 /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 909554BA2751684D0078F739 /* FaceView.swift */; };
+		90B4CE2727717D5300268AC8 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90B4CE2627717D5300268AC8 /* FacialExpression.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		909554AF27514DD70078F739 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		909554B127514DD70078F739 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		909554BA2751684D0078F739 /* FaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
+		90B4CE2627717D5300268AC8 /* FacialExpression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				909554B72751653F0078F739 /* Supporting Files */,
 				909554A727514DCE0078F739 /* ViewController.swift */,
 				909554A927514DCE0078F739 /* Main.storyboard */,
+				90B4CE2627717D5300268AC8 /* FacialExpression.swift */,
 			);
 			path = Faceit;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				909554A827514DCE0078F739 /* ViewController.swift in Sources */,
+				90B4CE2727717D5300268AC8 /* FacialExpression.swift in Sources */,
 				909554A627514DCE0078F739 /* AppDelegate.swift in Sources */,
 				909554BB2751684D0078F739 /* FaceView.swift in Sources */,
 			);
